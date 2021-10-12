@@ -1,0 +1,12 @@
+
+Detector #1      ACQ 12-Oct-2021 at 16:55:23   RT = 30.0   LT = 30.0
+            SPL3-VDG-PC Easy-MCA-8k SN 15013759
+            Beryllilum 1 Calibration
+
+ROI # 1     RANGE: 10 = 10.00     to  10 = 10.00
+Couldn't get background subtracted ROI.
+
+ROI # 2     RANGE: 269 = 269.00     to  331 = 331.00
+            AREA : Gross =  3377    Net = 2379   +/- 108
+            CENTROID: 301.91
+            SHAPE: FWHM = 25.00     FW(1/5)M = 41.11
